@@ -1,12 +1,6 @@
 PROJECT TITLE: BASEMENT BOMBER
-VERSION or DATE: 7/03/2023
+DATE: 7/03/2023
 AUTHOR: BAXTER BERDINNER
-
-------------------------------------------------------------------------
-
-HOW TO PLAY: Unzip this folder. Make sure you have blueJ installed.
-Double-click to open "package.bluej". Right-click on "main" and select
-"void main(String[] args)". Press "OK".
 
 ------------------------------------------------------------------------
 
