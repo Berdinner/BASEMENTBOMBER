@@ -4,6 +4,11 @@ AUTHOR: BAXTER BERDINNER
 
 ------------------------------------------------------------------------
 
+TO PLAY: Download all files. Make sure all files stay in the same folder. 
+Run "BASEMENTBOMBER.jar"
+
+------------------------------------------------------------------------
+
 BASEMENT BOMBER is a 2D run 'n gun game. Control your character through
 levels of the basement, defeating enemies as you go. Use WASD keys
 to move around and jump, SHIFT to dash past enemies, and SPACE to fire 
