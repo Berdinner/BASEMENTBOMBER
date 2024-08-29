@@ -4,6 +4,12 @@ AUTHOR: BAXTER BERDINNER
 
 ------------------------------------------------------------------------
 
+For acess to full list of commits and previous versions, visit my old
+highschool GitHub (Which i no longer have access to):
+https://github.com/berdiba/BasementBomber
+
+------------------------------------------------------------------------
+
 TO PLAY: Download all files. Make sure all files stay in the same folder. 
 Run "BASEMENTBOMBER.jar"
 
